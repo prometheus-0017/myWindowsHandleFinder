@@ -1,0 +1,3 @@
+# 无额外 pip 依赖，仅使用 Python 标准库
+# 需要 Sysinternals handle.exe (请手动下载)
+# 下载地址: https://learn.microsoft.com/sysinternals/downloads/handle
